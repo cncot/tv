@@ -53,9 +53,32 @@ GOODTV经典音乐河HD,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_de
 
 💘中央,#genre#
 
-CETV1,http://183.65.9.200:8888/udp/235.254.199.196:7980
-CETV1,http://111.59.63.32:9901/tsfile/live/1024_1.m3u8
-中央新影-老故事,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225774/1.m3u8
+CCTV+ 1,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+CCTV+ 2,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+CCTV-1,http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
+CCTV-2,http://39.134.39.39/PLTV/88888888/224/3221226220/index.m3u8
+CCTV-3,http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
+CCTV-4 Asia,http://210.210.155.37/qwr9ew/s/s19/index.m3u8
+CCTV-4,http://39.135.138.59:18890/PLTV/88888910/224/3221225621/index.m3u8
+CCTV-4,http://117.169.120.140:8080/live/cctv-4/.m3u8
+CCTV-4,http://183.207.248.71/cntv/live1/cctv-4/cctv-4
+CCTV-4,http://183.207.249.6/PLTV/3/224/3221225534/index.m3u8
+CCTV-4,http://183.207.249.11/PLTV/3/224/3221225534/index.m3u8
+CCTV-4,http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221227378/index.m3u8
+CCTV-4,http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221225534/index.m3u8
+CCTV-4,http://223.110.245.170/PLTV/3/224/3221225534/index.m3u8
+CCTV-5+,http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+CCTV-5,http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
+CCTV-6,http://39.134.39.39/PLTV/88888888/224/3221226226/index.m3u8
+CCTV-7,http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8
+CCTV-8 ,http://39.134.39.39/PLTV/88888888/224/3221226257/index.m3u8
+CCTV-9,http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8
+CCTV-10,http://39.134.115.163:8080/PLTV/88888910/224/3221225636/index.m3u8
+CCTV-11 ,http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8
+CCTV-12 ,http://39.134.115.163:8080/PLTV/88888910/224/3221225637/index.m3u8
+CCTV-13 ,http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
+CCTV-15,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8
+CCTV-17 ,http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 CCTV1,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226290/1/index.m3u8?fmt=ts2hls
 CCTV3,http://111.20.40.172/PLTV/88888893/224/3221226397/index.m3u8
 CCTV4,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225779/1/index.m3u8?fmt=ts2hls
