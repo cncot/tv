@@ -53,7 +53,32 @@ GOODTV经典音乐河HD,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_de
 
 💘中央,#genre#
 
-
+CCTV+1,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+CCTV+2,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+CCTV1,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226290/1/index.m3u8?fmt=ts2hls
+CCTV3,http://111.20.40.172/PLTV/88888893/224/3221226397/index.m3u8
+CCTV4,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225779/1/index.m3u8?fmt=ts2hls
+CCTV5,http://222.71.90.218:8888/newlive/live/hls/6/live.m3u8
+CCTV5+,http://183.65.9.200:8888/udp/235.254.199.121:7980
+CCTV6,http://183.65.9.200:8888/udp/235.254.199.55:7980
+CCTV7,http://183.65.9.200:8888/udp/235.254.199.56:7980
+CCTV8,http://111.20.40.172/PLTV/88888893/224/3221226391/index.m3u8
+CCTV9,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226031/1/index.m3u8?fmt=ts2hls
+CCTV10,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225685/1/index.m3u8?fmt=ts2hls
+CCTV11,http://183.65.9.200:8888/udp/235.254.196.161:7980
+CCTV12,http://183.65.9.200:8888/udp/235.254.199.60:7980
+CCTV14,http://183.65.9.200:8888/udp/235.254.199.61:7980
+CCTV15,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226247/1/index.m3u8?fmt=ts2hls
+CCTV16,http://111.20.40.160/PLTV/88888893/224/3221226921/index.m3u8
+CCTV17,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226168/1/index.m3u8?fmt=ts2hls
+CCTV11,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226714/1.m3u8?
+CCTV14,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226663/1.m3u8
+CCTV世界地理,http://111.20.40.162/PLTV/88888893/224/3221226947/index.m3u8
+CCTV风云音乐,http://111.20.40.162/PLTV/88888893/224/3221226953/index.m3u8
+CCTV兵器科技,http://111.20.40.160/PLTV/88888893/224/3221226975/index.m3u8
+CCTV怀旧剧场,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226097/1/index.m3u8?fmt=ts2hls
+CCTV风云剧场,http://111.20.40.165/PLTV/88888893/224/3221226950/index.m3u8
+CCTV第一剧场,http://111.20.40.170/PLTV/88888893/224/3221226959/index.m3u8
 CCTV1,http://183.65.9.200:8888/udp/235.254.199.51:7980
 CCTV1,http://183.65.9.200:8888/udp/235.254.198.147:1866
 CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
@@ -168,32 +193,7 @@ CCTV16,https://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000 CCTV16,htt
 CCTV17,http://hms224nc1972679578.live.aikan.miguvideo.com/wh7f454c46tw1594433061_461954091/migu/kailu/20200324/cctv17hd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208133753&ContentId=265667526&timezone=UTC&mtv_session=2ab00b83c917e8ba1b1bb082711b8b77&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=4c04c5308e4761e3cc4b36134b05b864
 
 
-CCTV+1,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
-CCTV+2,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
-CCTV1,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226290/1/index.m3u8?fmt=ts2hls
-CCTV3,http://111.20.40.172/PLTV/88888893/224/3221226397/index.m3u8
-CCTV4,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225779/1/index.m3u8?fmt=ts2hls
-CCTV5,http://222.71.90.218:8888/newlive/live/hls/6/live.m3u8
-CCTV5+,http://183.65.9.200:8888/udp/235.254.199.121:7980
-CCTV6,http://183.65.9.200:8888/udp/235.254.199.55:7980
-CCTV7,http://183.65.9.200:8888/udp/235.254.199.56:7980
-CCTV8,http://111.20.40.172/PLTV/88888893/224/3221226391/index.m3u8
-CCTV9,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226031/1/index.m3u8?fmt=ts2hls
-CCTV10,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225685/1/index.m3u8?fmt=ts2hls
-CCTV11,http://183.65.9.200:8888/udp/235.254.196.161:7980
-CCTV12,http://183.65.9.200:8888/udp/235.254.199.60:7980
-CCTV14,http://183.65.9.200:8888/udp/235.254.199.61:7980
-CCTV15,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226247/1/index.m3u8?fmt=ts2hls
-CCTV16,http://111.20.40.160/PLTV/88888893/224/3221226921/index.m3u8
-CCTV17,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226168/1/index.m3u8?fmt=ts2hls
-CCTV11,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226714/1.m3u8?
-CCTV14,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226663/1.m3u8
-CCTV世界地理,http://111.20.40.162/PLTV/88888893/224/3221226947/index.m3u8
-CCTV风云音乐,http://111.20.40.162/PLTV/88888893/224/3221226953/index.m3u8
-CCTV兵器科技,http://111.20.40.160/PLTV/88888893/224/3221226975/index.m3u8
-CCTV怀旧剧场,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226097/1/index.m3u8?fmt=ts2hls
-CCTV风云剧场,http://111.20.40.165/PLTV/88888893/224/3221226950/index.m3u8
-CCTV第一剧场,http://111.20.40.170/PLTV/88888893/224/3221226959/index.m3u8
+
 
 💘中央IPV6,#genre#
 CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
