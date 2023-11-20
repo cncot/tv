@@ -71,6 +71,28 @@ TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 
 💘中央,#genre#
 
+CCTV1,http://china.733240.com/cqyx.php?id=cctv1HD
+CCTV2,http://china.733240.com/cqyx.php?id=cctv2HD
+CCTV3,http://china.733240.com/cqyx.php?id=cctv3HD
+CCTV4,http://china.733240.com/cqyx.php?id=cctv4HD
+CCTV5,http://china.733240.com/cqyx.php?id=cctv5HD
+CCTV5+,http://china.733240.com/cqyx.php?id=cctv5SportHD
+CCTV6,http://china.733240.com/cqyx.php?id=cctv6HD
+CCTV7,http://china.733240.com/cqyx.php?id=cctv7HD
+CCTV8,http://china.733240.com/cqyx.php?id=cctv8HD
+CCTV9,http://china.733240.com/cqyx.php?id=cctv9HD
+CCTV10,http://china.733240.com/cqyx.php?id=cctv10HD
+CCTV11,http://china.733240.com/cqyx.php?id=cctv11HD
+CCTV12,http://china.733240.com/cqyx.php?id=cctv12HD
+CCTV13,http://china.733240.com/cqyx.php?id=CCTVNewsHD
+CCTV14,http://china.733240.com/cqyx.php?id=cctvseHD
+CCTV15,http://china.733240.com/cqyx.php?id=cctv15HD
+CCTV16,http://china.733240.com/cqyx.php?id=cctv16HD
+CCTV17,http://china.733240.com/cqyx.php?id=cctv17HD
+CCTV4K,http://china.733240.com/cqyx.php?id=CCTV4K
+CCTV16-4K,http://china.733240.com/cqyx.php?id=CCTV16_4k
+
+
 CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
 CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
 CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8
@@ -114,9 +136,6 @@ CCTV5,http://222.71.90.218:8888/newlive/live/hls/6/live.m3u8
 CCTV6,http://222.71.90.218:8888/newlive/live/hls/7/live.m3u8
 
 CCTV14,http://222.71.90.218:8888/newlive/live/hls/15/live.m3u8
-
-
-
 
 
 
@@ -193,26 +212,6 @@ CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e1903
 
 
 
-CCTV1,http://china.733240.com/cqyx.php?id=cctv1HD
-CCTV2,http://china.733240.com/cqyx.php?id=cctv2HD
-CCTV3,http://china.733240.com/cqyx.php?id=cctv3HD
-CCTV4,http://china.733240.com/cqyx.php?id=cctv4HD
-CCTV5,http://china.733240.com/cqyx.php?id=cctv5HD
-CCTV5+,http://china.733240.com/cqyx.php?id=cctv5SportHD
-CCTV6,http://china.733240.com/cqyx.php?id=cctv6HD
-CCTV7,http://china.733240.com/cqyx.php?id=cctv7HD
-CCTV8,http://china.733240.com/cqyx.php?id=cctv8HD
-CCTV9,http://china.733240.com/cqyx.php?id=cctv9HD
-CCTV10,http://china.733240.com/cqyx.php?id=cctv10HD
-CCTV11,http://china.733240.com/cqyx.php?id=cctv11HD
-CCTV12,http://china.733240.com/cqyx.php?id=cctv12HD
-CCTV13,http://china.733240.com/cqyx.php?id=CCTVNewsHD
-CCTV14,http://china.733240.com/cqyx.php?id=cctvseHD
-CCTV15,http://china.733240.com/cqyx.php?id=cctv15HD
-CCTV16,http://china.733240.com/cqyx.php?id=cctv16HD
-CCTV17,http://china.733240.com/cqyx.php?id=cctv17HD
-CCTV4K,http://china.733240.com/cqyx.php?id=CCTV4K
-CCTV16-4K,http://china.733240.com/cqyx.php?id=CCTV16_4k
 
 CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb07]/wh7f454c46tw3252572940_-481357165/ott.mobaibox.com/PLTV/3/224/3221227467/index.m3u8?icpid=3&RTS=1668593752&from=40&ocs=2_2409:8087:2001:20:2800:0:df6e:eb0a_80&popid=40&hms_devid=2036&prioritypopid=40&vqe=3
 CCTV2,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw3589111099_-1793408755/ott.mobaibox.com/PLTV/3/224/3221227543/index.m3u8?icpid=3&RTS=1668594088&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
