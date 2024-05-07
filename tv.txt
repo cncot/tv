@@ -1,6 +1,15 @@
 🗼港澳台,#genre#
 
 
+凤凰卫视中文台,http://223.109.210.49/mmst.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226308/index.m3u8
+凤凰卫视中文台,http://125.210.150.58:9090/live/hszx-fhzw-h264.m3u8
+
+
+凤凰卫视资讯台,http://223.109.210.49/mmst.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3u8
+凤凰卫视资讯台,http://125.210.150.58:9090/live/hszx-fhzx-h264.m3u8
+
+
+
 凤凰香港,https://epg.pw/stream/8352ad260441ed0064f63f7a25eb3a7268a68b391f08a345b9bdbefd51aa330f.m3u8
 凤凰电影,https://epg.pw/stream/9ed301e39bb8ca159e243f22b480bf96dd911e48e89709a29959a5aab65608cf.ctv
 凤凰电影,https://epg.pw/stream/eb5c379a2d045382ce7f8ffa78e5b7d184a3c44fffe574d72e3fab54a7d696f7.ctv
