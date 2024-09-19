@@ -279,23 +279,7 @@ GOODTV经典音乐河,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_defi
 
 🐆🐅电影,#genre#
 
-(2024)哥斯拉大战金刚2：帝国崛起,https://api.heimuer.app/play/6f3edeb2885149e4b30f676e8a94ef3b.m3u8
-(2024)异形寄生:起源,https://api.heimuer.app/play/3e9be3a5080c46449dbc355c9cb8baec.m3u8
-星际穿越,https://api.heimuer.app/play/f9b471ddd1ee425bb3c64a24f82561be.m3u8
-明日边缘,http://nas.dylove.xyz:35455/yy/1382736835
-魔戒首部曲：魔戒現身,https://api.heimuer.app/play/d10849d4be514bfeb5de7b6ff8bdfb5a.m3u8
-魔戒二部曲：雙城奇謀,https://api.heimuer.app/play/4c017a32d1a7478696e4b78d95774ccc.m3u8
-魔戒三部曲：王者再臨,https://api.heimuer.app/play/bd885bde48d742068df66e382a8db7a7.m3u8
-🎞️琅琊榜,http://zby.xjqxz.top/lyb/live.m3u8
-🎞️知否知否,http://zby.xjqxz.top/zfzf/live.m3u8
-🎞️知否知否,http://11.xmyxc.cn/api/php/yy.php?id=398312
-🎞️你是我的荣耀,http://cdn.jdshipin.com:8880/huya.php?id=11352920
-🎞️甄嬛传,http://zby.xjqxz.top/live8/live.m3u8
-🎞️我的前半生,http://159.75.85.63:35455/yy/1382735564
-🎞️鹊刀门(赵本山),http://159.75.85.63:35455/yy/1355344777
-🎞️狂飙,http://11.xmyxc.cn/api/php/yy.php?id=1382754187
-🎞️白鹿原,http://cdn.jdshipin.com:8880/huya.php?id=11342416
-🎞️与凤行,http://159.75.85.63:35455/huya/26355866
+
 漫威系轮播,http://nas.dylove.xyz:35455/yy/1354932402
 周星星轮播,http://tc-tct.douyucdn2.cn/dyliveflv1a/3637778raLSXdOdu_2000.m3u8
 贝爷max✔原,http://159.75.85.63:35455/douyu/4332
