@@ -494,82 +494,6 @@
 {"key":"卧龙资源","name":"卧龙资源(切)","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"阿里影视","name":"阿里影视(聚)","type":1,"api":"http://aliys.cn:90/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"csp_xpath_独播库","name":"独播库(XPF)(播放器要改成系统播放器)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./MaooXP/duboku.json"},    
-    {
-      "key": "Alist",
-      "name": "🌟小雅┃高清",
-      "type": 3,
-      "api": "http://192.168.8.250:5678/tvbox/libs/alist.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": [
-        {
-          "name": "丫仙女",
-          "server": "http://192.168.8.250:5678/",
-          "startPage": "/",
-          "search": true
-        },
-        {
-          "name": "每日更新",
-          "server": "http://192.168.8.250:5678/",
-          "startPage": "/每日更新"
-        },
-        {
-          "name": "电影",
-          "server": "http://192.168.8.250:5678/",
-          "startPage": "/电影"
-        },
-        {
-          "name": "电视剧",
-          "server": "http://192.168.8.250:5678/",
-          "startPage": "/电视剧"
-        },
-        {
-          "name": "短剧",
-          "server": "http://192.168.8.250:5678/",
-          "startPage": "/每日更新/爽文短剧"
-        },
-        {
-          "name": "综艺",
-          "server": "http://192.168.8.250:5678/",
-          "startPage": "/综艺"
-        },
-        {
-          "name": "纪录片",
-          "server": "http://192.168.8.250:5678/",
-          "startPage": "/纪录片"
-        },
-        {
-          "name": "动漫",
-          "server": "http://192.168.8.250:5678/",
-          "startPage": "/动漫"
-        },
-        {
-          "name": "儿童",
-          "server": "http://192.168.8.250:5678/",
-          "startPage": "/动漫/儿童"
-        }
-      ]
-    },
-{      "key": "csp_Alist",      "name": "Alist(SP)",      "type": 3,      "api": "csp_Alist",      "searchable": 0,      "playerType": 2,      "quickSearch": 0,      "filterable": 0,      "ext": {
-
-"🌊七米蓝": "https://al.chirmyram.com",
-"✨星梦": "https://pan.bashroot.top",
-"💫触光": "https://pan.ichuguang.com",
-"💦讯维云盘": "https://pan.xwbeta.com"      }    },    
-    {
-      "key": "push_agent",
-      "name": "🛴手机┃推送",
-      "type": 3,
-      "api": "csp_Push",
-      "searchable": 0,
-      "quickSearch": 0,
-      "ext": {
-        "aliToken": "tvfan/token.txt",
-        "quarkCookie": "tvfan/cookie.txt",
-        "from": "4k|auto|fhd"
-      }
-    },
   {
       "key": "B站影视",
       "name": "B站┃影视",
@@ -579,8 +503,6 @@
       "changeable": 1,
       "ext": "./lib/B站影视.js"
     },
-
-
 {"key":"率率","name":"影视 | 率率[直连]","type":1,"api":"https://suoniapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"changeable":1,"categories":["国产剧","韩剧","日剧","港剧","台剧","动作片","喜剧片","爱情片","科幻片","战争片","恐怖片","剧情片","国产动漫","日韩动漫","欧美动漫","大陆综艺","日韩综艺"]},
 {"key":"百度","name":"百度","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod?ac=list","searchable":1,"filterable":0,"categories":["国产动漫","日韩动漫","大陆剧","欧美剧","韩剧","日剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"],"header":{"User-Agent":"Mozilla/5.0"}},
 {"key":"暴風","name":"影视 | 暴風[直连]","type":1,"api":"https://bfzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"changeable":1},
