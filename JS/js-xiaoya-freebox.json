@@ -6,29 +6,28 @@
       "name": "🐼┃闪电优汐已恢复┃加资源可艾特我",
       "type": 3,
       "api": "csp_Douban",
-      "searchable": 0
+      "searchable": 0,"changeable": 0,"ext": {}
     },
     {
       "key": "豆瓣预告",
       "name": "🐼┃豆瓣┃预告",
       "type": 3,
       "api": "csp_YGP",
-      "playerType": 2,
-      "searchable": 0
+      "searchable": 0,"changeable": 0,"ext": {}
     },
     {
       "key": "config",
       "name": "🐼┃配置┃中心",
       "type": 3,
       "api": "csp_Config",
-      "playerType": 2
+      "searchable": 0,"changeable": 0
     },
     {
       "key": "living",
       "name": "🐼┃游戏┃直播",
       "type": 3,
       "api": "csp_Living",
-      "playerType": 2,
+      "searchable": 0,"changeable": 0,
       "ext": "https://bt.muxia.fun"
     },
     {
@@ -36,7 +35,7 @@
       "name": "⚡┃闪电┃优汐",
       "type": 3,
       "api": "csp_Duopan",
-      "filterable": 1,
+      "searchable": 0,"changeable": 0,
       "ext": {
         "site_urls": [
           "https://sduc.cloud/",
@@ -222,7 +221,7 @@
       "name": "🎬┃荐片┃影视",
       "api": "csp_Jianpian",
       "type": 3,
-      "playerType": "2",
+      "searchable": 0,"changeable": 0,
       "ext": "https://ev2089.zxbwv.com"
     },
     {
@@ -230,7 +229,7 @@
       "name": "🔥┃火火┃影视",
       "type": 3,
       "api": "csp_SaoHuo",
-      "playerType": 2,
+      "searchable": 0,"changeable": 0,
       "ext": "https://shdy5.us"
     },
     {
@@ -246,7 +245,7 @@
       "key": "厂长",
       "name": "🏭┃厂长┃影视",
       "type": 3,
-      "playerType": "2",
+      "searchable": 0,"changeable": 0,
       "api": "csp_Czsapp",
       "searchable": 1,
       "quickSearch": 1,
@@ -269,7 +268,7 @@
       "name": "🐾┃酷狗┃音乐",
       "type": 3,
       "api": "csp_Kugou",
-      "playerType": 2,
+      "searchable": 0,"changeable": 0,
       "ext": {
         "classes": [
           {
@@ -284,7 +283,7 @@
       "name": "🎧┃明星┃MV",
       "type": 3,
       "api": "csp_Bili",
-      "playerType": 2,
+      "searchable": 0,"changeable": 0,
       "ext": {
         "json": "https://img2.gelonghui.com/library/2b4eb-8fb08a6b-f9f1-48d8-816a-1bc712a85fefnull",
         "cookie": ""
@@ -324,6 +323,7 @@
       "name": "🌖┃米搜┃网盘",
       "type": 3,
       "api": "csp_MiSou",
+	  "searchable": 0,"changeable": 0,
       "ext": "http://127.0.0.1:9978/file/fatcat/kk.txt"
     },
     {
@@ -331,6 +331,7 @@
       "name": "🚃┃盘搜┃网盘",
       "type": 3,
       "api": "csp_PanSearch",
+	  "searchable": 0,"changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
     },
  
@@ -344,16 +345,16 @@
 
 {"key":"drpy_js_NT动漫","name":"动漫 | NT动漫[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/NT动漫.js"},	
 
-{"key":"萌米","name":"👀萌米┃多线","type":3,"api":"csp_AppTTGuard","timeout":10,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"uqGL1bNENEIVq+dC1p/Y9uWjuA=="},
-{"key":"热播","name":"📺热播┃多线","type":3,"api":"csp_AppTTGuard","timeout":10,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"uqGL1bNENExT7/hGxpSE5qU="},
-{"key":"文采","name":"💮文采┃秒播","type":3,"api":"csp_JpysGuard","timeout":10,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"萌米","name":"👀萌米┃多线","type":3,"api":"csp_AppTTGuard","timeout":10,"searchable":1,"quickSearch":1,"changeable":1,"ext":"uqGL1bNENEIVq+dC1p/Y9uWjuA=="},
+{"key":"热播","name":"📺热播┃多线","type":3,"api":"csp_AppTTGuard","timeout":10,"searchable":1,"quickSearch":1,"changeable":1,"ext":"uqGL1bNENExT7/hGxpSE5qU="},
+{"key":"文采","name":"💮文采┃秒播","type":3,"api":"csp_JpysGuard","timeout":10,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"糯米","name":"🍓糯米┃秒播","type":3,"api":"csp_NmyswvGuard","timeout":10,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"苹果","name":"🍎苹果┃不卡","type":3,"api":"csp_LiteAppleGuard","timeout":10,"searchable":1,"quickSearch":1,"changeable":1},
-{"key":"白白","name":"🐟白白┃秒播","type":3,"api":"csp_SbaibaiGuard","timeout":10,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"白白","name":"🐟白白┃秒播","type":3,"api":"csp_SbaibaiGuard","timeout":10,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"zxzj","name":"🍊在线┃秒播","type":3,"api":"csp_ZxzjGuard","timeout":10,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzjhd.com/"},
 {"key":"兄弟","name":"🍊水星┃多线","type":3,"api":"csp_AppSxGuard","timeout":10,"searchable":1,"quickSearch":1,"filterable":1,"ext":"rfOb1uAWbkRHp7hdxprG9un3+SLP183q3ik3cJDiAwlFdF8L6SIvrvc9LrpTyIg76T7QJZdEkWNj43wiSaA0TJyQpu2IF2jsSLWFx7WkAmG40hFxJ1tI+Jf+EVG8DtoDRcNi+TtVGULnWrSz3EWnVcxR3EJhXnrwYWe1kJtNW5txuHAO"},
 {"key":"奥特","name":"🏝奥特┃多线","type":3,"api":"csp_AueteGuard","timeout":10,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://auete.com/"},
-{"key":"贱贱","name":"🐭荐片┃P2P","type":3,"api":"csp_JPJGuard","timeout":10,"playerType":2,"searchable":1,"quickSearch":1,"changeable":0},
+{"key":"贱贱","name":"🐭荐片┃P2P","type":3,"api":"csp_JPJGuard","timeout":10,"searchable":1,"quickSearch":1,"changeable":0},
 {"key":"新6V","name":"🧲新6V┃磁力","type":3,"api":"csp_SixVGuard","timeout":10,"searchable":1,"quickSearch":1,"changeable":0,"ext":"https://www.xb6v.com/"}
   ]
 }
